@@ -1,2 +1,2 @@
 # Daisy
-Daisy thnik
+Daisy thing. 
