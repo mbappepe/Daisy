@@ -1,2 +1,2 @@
 # Daisy
-Daisy thing. 
+Daisy things. 
